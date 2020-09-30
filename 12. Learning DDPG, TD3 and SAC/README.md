@@ -2,8 +2,8 @@
 * 12.1. Deep Deterministic Policy Gradient
    * 12.1.1. An Overview of DDPG
 * 12.2. Components of DDPG
-      * 12.2.1. Critic network
-      * 12.2.2. Actor Network
+  * 12.2.1. Critic network
+  * 12.2.2. Actor Network
 * 12.3. Putting it all Together
 * 12.4. Algorithm - DDPG
 * 12.5. Swinging Up the Pendulum using DDPG

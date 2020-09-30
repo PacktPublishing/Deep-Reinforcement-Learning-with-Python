@@ -93,7 +93,7 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * [5.3. Predicting the Value of States in a Frozen Lake Environment](05.%20Understanding%20Temporal%20Difference%20Learning/5.03.%20Predicting%20the%20Value%20of%20States%20in%20a%20Frozen%20Lake%20Environment.ipynb)
 * 5.4. TD Control
 * 5.5. On-Policy TD Control - SARSA
-* [5.6. Computing Optimal Policy using SARSA](05.%20Understanding%20Temporal%20Difference%20Learning/5.06.%20Computing%20Optimal%20Policy%20using%20SARSA.ipynb]
+* [5.6. Computing Optimal Policy using SARSA](05.%20Understanding%20Temporal%20Difference%20Learning/5.06.%20Computing%20Optimal%20Policy%20using%20SARSA.ipynb)
 * 5.7. Off-Policy TD Control - Q Learning
 * [5.8. Computing the Optimal Policy using Q Learning](05.%20Understanding%20Temporal%20Difference%20Learning/5.08.%20Computing%20the%20Optimal%20Policy%20using%20Q%20Learning.ipynb)
 * 5.9. The Difference Between Q Learning and SARSA
@@ -141,92 +141,90 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * [8.10. MNIST digits classification in Tensorflow 2.0](08.%20A%20primer%20on%20TensorFlow/8.10%20MNIST%20digits%20classification%20in%20TensorFlow%202.0.ipynb)
 
 
-### 9. Deep Q Network and its Variants
+### [9. Deep Q Network and its Variants](09.%20%20Deep%20Q%20Network%20and%20its%20Variants)
 
-* 9.1. What is Deep Q Network?
+* [9.1. What is Deep Q Network?](09.%20%20Deep%20Q%20Network%20and%20its%20Variants/9.01.%20What%20is%20Deep%20Q%20Network%3F.ipynb)
 * 9.2. Understanding DQN
-* 9.3. Playing Atari Games using DQN
+* [9.3. Playing Atari Games using DQN](09.%20%20Deep%20Q%20Network%20and%20its%20Variants/9.03.%20Playing%20Atari%20Games%20using%20DQN.ipynb)
 * 9.4. Double DQN
 * 9.5. DQN with Prioritized Experience Replay
 * 9.6. Dueling DQN
 * 9.7. Deep Recurrent Q Network
 
-### 10. Policy Gradient Method
-* 10.1. Why Policy Based Methods?
-* 10.2. Policy Gradient Intuition
+### [10. Policy Gradient Method](10.%20Policy%20Gradient%20Method)
+* [10.1. Why Policy Based Methods?](10.%20Policy%20Gradient%20Method/10.01.%20Why%20Policy%20based%20Methods.ipynb)
+* [10.2. Policy Gradient Intuition](10.%20Policy%20Gradient%20Method/10.02.%20Policy%20Gradient%20Intuition.ipynb)
 * 10.3. Understanding the Policy Gradient
 * 10.4. Deriving Policy Gradien
 * 10.5. Variance Reduction Methods
 * 10.6. Policy Gradient with Reward-to-go
-* 10.7. Cart Pole Balancing with Policy Gradient
+* [10.7. Cart Pole Balancing with Policy Gradient](10.%20Policy%20Gradient%20Method/10.07.%20Cart%20Pole%20Balancing%20with%20Policy%20Gradient.ipynb)
 * 10.8. Policy Gradient with Baseline
 
 
-### 11. Actor Critic Methods - A2C and A3C
-* 11.1. Overview of Actor Critic Method
+### [11. Actor Critic Methods - A2C and A3C](11.%20Actor%20Critic%20Methods%20-%20A2C%20and%20A3C)
+* [11.1. Overview of Actor Critic Method](11.%20Actor%20Critic%20Methods%20-%20A2C%20and%20A3C/11.01.%20Overview%20of%20actor%20critic%20method.ipynb)
 * 11.2. Understanding the Actor Critic Method
 * 11.3. Advantage Actor Critic
 * 11.4. Asynchronous Advantage Actor Critic
-* 11.5. Mountain Car Climbing using A3C
+* [11.5. Mountain Car Climbing using A3C](11.%20Actor%20Critic%20Methods%20-%20A2C%20and%20A3C/11.05.%20Mountain%20Car%20Climbing%20using%20A3C.ipynb)
 * 11.6. A2C Revisited
 
-### 12. Learning DDPG, TD3 and SAC
-* 12.1. Deep Deterministic Policy Gradient
-* 12.2. Swinging Up the Pendulum using DDPG
+### [12. Learning DDPG, TD3 and SAC](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC)
+* [12.1. Deep Deterministic Policy Gradient](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.01.%20DDPG.ipynb)
+* [12.2. Swinging Up the Pendulum using DDPG](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.02.%20Swinging%20Up%20the%20Pendulum%20using%20DDPG%20.ipynb)
 * 12.3. Twin Delayed DDPG
 * 12.4. Soft Actor Critic
 
-
-### 13. TRPO, PPO and ACKTR Methods
-* 13.1 Trust Region Policy Optimization
+### [13. TRPO, PPO and ACKTR Methods](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods)
+* [13.1 Trust Region Policy Optimization](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods/13.09.%20Implementing%20PPO-Clipped%20Method.ipynb)
 * 13.2. Math Essentials
 * 13.3. Designing the TRPO Objective Function
 * 13.4. Solving the TRPO Objective Function
 * 13.5. Algorithm - TRPO
 * 13.6. Proximal Policy Optimization
 * 13.7. PPO with Clipped Objective
-* 13.9. Implementing PPO-Clipped Method
+* [13.9. Implementing PPO-Clipped Method](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods/13.09.%20Implementing%20PPO-Clipped%20Method.ipynb)
 * 13.10. PPO with Penalized Objective
 * 13.11. Actor Critic using Kronecker Factored Trust Region
 * 13.12. Math Essentials
 * 13.13. Kronecker-Factored Approximate Curvature (K-FAC)
 * 13.14. K-FAC in Actor Critic
 
-### 14. Distributional Reinforcement Learning
+### [14. Distributional Reinforcement Learning](14.%20Distributional%20Reinforcement%20Learning)
 * 14.1. Why Distributional Reinforcement Learning?
 * 14.2. Categorical DQN
-* 14.3. Playing Atari games using Categorical DQN
+*[14.3. Playing Atari games using Categorical DQN](14.%20Distributional%20Reinforcement%20Learning/14.03.%20Playing%20Atari%20games%20using%20Categorical%20DQN.ipynb)
 * 14.4. Quantile Regression DQN
 * 14.5. Math Essentials
 * 14.6. Understanding QR-DQN
 * 14.7. Distributed Distributional DDPG
 
-
-### 15. Imitation Learning and Inverse RL
-* 15.1. Supervised Imitation Learning
-* 15.2. DAgger
+### [15. Imitation Learning and Inverse RL](15.%20Imitation%20Learning%20and%20Inverse%20RL)
+* [15.1. Supervised Imitation Learning](15.%20Imitation%20Learning%20and%20Inverse%20RL/15.01.%20Supervised%20Imitation%20Learning%20.ipynb)
+* [15.2. DAgger](15.%20Imitation%20Learning%20and%20Inverse%20RL/15.02.%20DAgger.ipynb)
 * 15.3. Deep Q learning from Demonstrations
 * 15.4. Inverse Reinforcement Learning
 * 15.5. Maximum Entropy IRL
 * 15.6. Generative Adversarial Imitation Learning
  
 
-### 16. Deep Reinforcement Learning with Stable Baselines
+### [16. Deep Reinforcement Learning with Stable Baselines](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines)
 
-* 16.1. Creating our First Agent with Baseline
+* [16.1. Creating our First Agent with Baseline](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.01.%20Creating%20our%20First%20Agent%20with%20Stable%20Baseline.ipynb)
 * 16.2. Multiprocessing with Vectorized Environments
 * 16.3. Integrating the Custom Environments
-* 16.4. Playing Atari Games with DQN 
-* 16.5. Implememt DQN variants
-* 16.6. Lunar Lander using A2C
-* 16.7. Creating a custom network 
-* 16.8. Swinging up a Pendulum using DDPG
-* 16.9. Training an Agent to Walk using TRPO
-* 16.10. Training Cheetah Bot to Run using PPO
+* [16.4. Playing Atari Games with DQN](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.04.%20Playing%20Atari%20games%20with%20DQN%20and%20its%20variants.ipynb) 
+* [16.5. Implememt DQN variants](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.05.%20Implementing%20DQN%20variants.ipynb)
+* [16.6. Lunar Lander using A2C](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.06.%20Lunar%20Lander%20using%20A2C.ipynb)
+* [16.7. Creating a custom network](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.07.%20Creating%20a%20custom%20network.ipynb) 
+* [16.8. Swinging up a Pendulum using DDPG](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.08.%20Swinging%20up%20a%20pendulum%20using%20DDPG.ipynb)
+* [16.9. Training an Agent to Walk using TRPO](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.09.%20Training%20an%20agent%20to%20walk%20using%20TRPO.ipynb)
+* [16.10. Training Cheetah Bot to Run using PPO](16.%20Deep%20Reinforcement%20Learning%20with%20Stable%20Baselines/16.10.%20Training%20cheetah%20bot%20to%20run%20using%20PPO.ipynb)
 
 
-### 17. Reinforcement Learning Frontiers
-* 17.1. Meta Reinforcement Learning
+### [17. Reinforcement Learning Frontiers](17.%20Reinforcement%20Learning%20Frontiers)
+* [17.1. Meta Reinforcement Learning](17.%20Reinforcement%20Learning%20Frontiers/17.01.%20Meta%20Reinforcement%20Learning.ipynb)
 * 17.2. Model Agnostic Meta Learning
 * 17.3. Understanding MAML
 * 17.4. MAML in the Supervised Learning Setting

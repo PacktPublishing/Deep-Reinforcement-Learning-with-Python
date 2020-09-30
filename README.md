@@ -1,6 +1,5 @@
 # [Deep Reinforcement Learning With Python](https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4)
 
-
 ###  Master classic RL, deep RL, distributional RL, inverse RL, and more with OpenAI Gym and TensorFlow
 
 ## About the book
@@ -28,7 +27,7 @@ of promising approaches such as meta-learning and imagination augmented agents
 in research.
 
 # Table of Contents
-Download the detailed and complete table of contents from [here]("./table of contents/")
+Download the detailed and complete table of contents from [here]("./table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf")
 
 ## 1. Fundamentals of Reinforcement Learning
 

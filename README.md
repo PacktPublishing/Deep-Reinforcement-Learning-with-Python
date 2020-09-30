@@ -1,6 +1,6 @@
 # [Deep Reinforcement Learning With Python](https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4)
 
-###  Master classic RL, deep RL, distributional RL, inverse RL, and more with OpenAI Gym and TensorFlow
+###  Master classic RL, deep RL, distributional RL, inverse RL, and more with OpenAI Gym and TensorFlow with extensive Math 
 
 ## About the book
 <a target="_blank" href="https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4">

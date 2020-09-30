@@ -101,7 +101,6 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 
 
 ### [6. Case Study: The MAB Problem](06.%20Case%20Study:%20The%20MAB%20Problem)
-
 * 6.1. The MAB Problem
 * 6.2. Creating Bandit in the Gym
 * [6.3. Epsilon-Greedy](06.%20Case%20Study:%20The%20MAB%20Problem/6.03.%20Epsilon-Greedy.ipynb)
@@ -114,9 +113,10 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * [6.10. Implementing Thompson Sampling](6.%20Case%20Study:%20The%20MAB%20Problem/6.10.%20Implementing%20Thompson%20Sampling.ipynb)
 * 6.11. Applications of MAB
 * [6.12. Finding the Best Advertisement Banner using Bandits](06.%20Case%20Study:%20The%20MAB%20Problem/6.12.%20Finding%20the%20Best%20Advertisement%20Banner%20using%20Bandits.ipynb)
+
 * 6.13. Contextual Bandits
 
-### [Chapter 7. Deep Learning Foundations](07.%20Deep%20learning%20foundations)
+### [7. Deep Learning Foundations](07.%20Deep%20learning%20foundations)
 
 * 7.1. Biological and artifical neurons
 * 7.2. ANN and its layers 
@@ -128,7 +128,7 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * 7.8. Convolutional neural networks
 * 7.9. Generative adversarial networks 
 
-### [Chapter 8. Getting to Know TensorFlow](08.%20A%20primer%20on%20TensorFlow)
+### [8. Getting to Know TensorFlow](08.%20A%20primer%20on%20TensorFlow)
 
 * 8.1. What is TensorFlow?
 * 8.2. Understanding Computational Graphs and Sessions
@@ -173,9 +173,18 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 
 ### [12. Learning DDPG, TD3 and SAC](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC)
 * [12.1. Deep Deterministic Policy Gradient](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.01.%20DDPG.ipynb)
-* [12.2. Swinging Up the Pendulum using DDPG](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.02.%20Swinging%20Up%20the%20Pendulum%20using%20DDPG%20.ipynb)
-* 12.3. Twin Delayed DDPG
-* 12.4. Soft Actor Critic
+* 12.2. Components of DDPG
+* 12.3. Putting it all together
+* 12.4. Algorithm - DDPG
+* [12.5. Swinging Up the Pendulum using DDPG](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.02.%20Swinging%20Up%20the%20Pendulum%20using%20DDPG%20.ipynb)
+* 12.6. Twin Delayed DDPG
+* 12.7. Components of TD3
+* 12.8. Putting it all together
+* 12.9. Algorithm - TD3
+* 12.10. Soft Actor Critic
+* 12.11. Components of SAC
+* 12.12. Putting it all together
+* 12.13. Algorithm - SAC
 
 ### [13. TRPO, PPO and ACKTR Methods](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods)
 * [13.1 Trust Region Policy Optimization](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods/13.09.%20Implementing%20PPO-Clipped%20Method.ipynb)
@@ -195,7 +204,7 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 ### [14. Distributional Reinforcement Learning](14.%20Distributional%20Reinforcement%20Learning)
 * 14.1. Why Distributional Reinforcement Learning?
 * 14.2. Categorical DQN
-*[14.3. Playing Atari games using Categorical DQN](14.%20Distributional%20Reinforcement%20Learning/14.03.%20Playing%20Atari%20games%20using%20Categorical%20DQN.ipynb)
+* [14.3. Playing Atari games using Categorical DQN](14.%20Distributional%20Reinforcement%20Learning/14.03.%20Playing%20Atari%20games%20using%20Categorical%20DQN.ipynb)
 * 14.4. Quantile Regression DQN
 * 14.5. Math Essentials
 * 14.6. Understanding QR-DQN

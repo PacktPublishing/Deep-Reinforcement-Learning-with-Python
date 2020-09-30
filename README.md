@@ -27,11 +27,11 @@ of promising approaches such as meta-learning and imagination augmented agents
 in research.
 
 # Table of Contents
-Download the detailed and complete table of contents from [here](table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf)
+Download the detailed and complete table of contents from [here.](table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf)
 
-## 1. Fundamentals of Reinforcement Learning
+## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
-* 1.1. Basic Idea of Reinforcement Learning
+* 1.1. [Basic Idea of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
 * 1.2. Key Elements of Reinforcement Learning
 * 1.3. Reinforcement Learning Algorithm
 * 1.4. RL Agent in the Grid World

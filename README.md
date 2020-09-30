@@ -113,7 +113,6 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * [6.10. Implementing Thompson Sampling](6.%20Case%20Study:%20The%20MAB%20Problem/6.10.%20Implementing%20Thompson%20Sampling.ipynb)
 * 6.11. Applications of MAB
 * [6.12. Finding the Best Advertisement Banner using Bandits](06.%20Case%20Study:%20The%20MAB%20Problem/6.12.%20Finding%20the%20Best%20Advertisement%20Banner%20using%20Bandits.ipynb)
-
 * 6.13. Contextual Bandits
 
 ### [7. Deep Learning Foundations](07.%20Deep%20learning%20foundations)

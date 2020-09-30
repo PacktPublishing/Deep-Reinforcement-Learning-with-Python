@@ -87,7 +87,7 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * 4.15. Is MC Method Applicable to all Tasks?
 
 
-### 5. Understanding Temporal Difference Learning
+### [5. Understanding Temporal Difference Learning](05.%20Understanding%20Temporal%20Difference%20Learning)
 * [5.1. TD Learning](05.%20Understanding%20Temporal%20Difference%20Learning/5.01.%20TD%20Learning.ipynb)
 * 5.2. TD Prediction
 * [5.3. Predicting the Value of States in a Frozen Lake Environment](05.%20Understanding%20Temporal%20Difference%20Learning/5.03.%20Predicting%20the%20Value%20of%20States%20in%20a%20Frozen%20Lake%20Environment.ipynb)
@@ -101,6 +101,7 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 
 
 ### [6. Case Study: The MAB Problem](06.%20Case%20Study:%20The%20MAB%20Problem)
+
 * 6.1. The MAB Problem
 * 6.2. Creating Bandit in the Gym
 * [6.3. Epsilon-Greedy](06.%20Case%20Study:%20The%20MAB%20Problem/6.03.%20Epsilon-Greedy.ipynb)

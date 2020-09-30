@@ -31,8 +31,8 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 
 ## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
-* 1.1. [Basic Idea of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
-* 1.2. Key Elements of Reinforcement Learning
+* 1.1. [Key Elements of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
+* 1.2. Basic Idea of Reinforcement Learning
 * 1.3. Reinforcement Learning Algorithm
 * 1.4. RL Agent in the Grid World
 * 1.5. How RL differs from other ML paradigms?
@@ -46,103 +46,99 @@ Download the detailed and complete table of contents from [here.](table%20of%20c
 * 1.13. Reinforcement Learning Glossary
 
 
-### 2. A Guide to the Gym Toolkit
+### [2. A Guide to the Gym Toolkit](02.%20A%20Guide%20to%20the%20Gym%20Toolkit)
 * 2.1. Setting Up our Machine
-* 2.2. Creating our First Gym Environment
+* [2.2. Creating our First Gym Environment](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.02.%20%20Creating%20our%20First%20Gym%20Environment.ipynb)
 * 2.3. Generating an episode
-* 2.4. Classic Control Environments
-* 2.5. Cart Pole Balancing with Random Policy
+* [2.4. Classic Control Environments](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.04.%20Classic%20Control%20Environments.ipynb)
+* [2.5. Cart Pole Balancing with Random Policy](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.05.%20Cart%20Pole%20Balancing%20with%20Random%20Policy.ipynb)
 * 2.6. Atari Game Environments
 * 2.7. Agent Playing the Tennis Game
 * 2.8. Recording the Game
 * 2.9. Other environments
 * 2.10. Environment Synopsis
 
-### 3. Bellman Equation and Dynamic Programming
-* 3.1. The Bellman Equation
+### [3. Bellman Equation and Dynamic Programming](03.%20Bellman%20Equation%20and%20Dynamic%20Programming)
+* [3.1. The Bellman Equation](03.%20Bellman%20Equation%20and%20Dynamic%20Programming/3.01.%20The%20Bellman%20Equation.ipynb)
 * 3.2. Bellman Optimality Equation
 * 3.3. Relation Between Value and Q Function
 * 3.4. Dynamic Programming
 * 3.5. Value Iteration
-* 3.6. Solving the Frozen Lake Problem with Value Iteration
+* [3.6. Solving the Frozen Lake Problem with Value Iteration](03.%20Bellman%20Equation%20and%20Dynamic%20Programming/3.06.%20Solving%20the%20Frozen%20Lake%20Problem%20with%20Value%20Iteration.ipynb)
 * 3.7. Policy iteration
-* 3.8. Solving the Frozen Lake Problem with Policy Iteration
+* [3.8. Solving the Frozen Lake Problem with Policy Iteration](03.%20Bellman%20Equation%20and%20Dynamic%20Programming/3.08.%20Solving%20the%20Frozen%20Lake%20Problem%20with%20Policy%20Iteration.ipynb)
 * 3.9. Is DP Applicable to all Environments?
 
-### 4. Monte Carlo Methods
-* 4.1. Understanding the Monte Carlo Method
-* 4.2. Prediction and Control Tasks
+### [4. Monte Carlo Methods](04.%20Monte%20Carlo%20Methods)
+* [4.1. Understanding the Monte Carlo Method](04.%20Monte%20Carlo%20Methods/4.01.%20Understanding%20the%20Monte%20Carlo%20Method.ipynb)
+* [4.2. Prediction and Control Tasks](04.%20Monte%20Carlo%20Methods/4.02.%20%20Prediction%20and%20control%20tasks.ipynb)
 * 4.3. Monte Carlo Prediction
 * 4.4. Understanding the BlackJack Game
-* 4.5. Every-visit MC Prediction with Blackjack Game
-* 4.6. First-visit MC Prediction with Blackjack Game
+* [4.5. Every-visit MC Prediction with Blackjack Game](04.%20Monte%20Carlo%20Methods/4.05.%20Every-visit%20MC%20Prediction%20with%20Blackjack%20Game.ipynb)
+* [4.6. First-visit MC Prediction with Blackjack Game](04.%20Monte%20Carlo%20Methods/4.06.%20First-visit%20MC%20Prediction%20with%20Blackjack%20Game.ipynb)
 * 4.7. Incremental Mean Updates
 * 4.8. MC Prediction (Q Function)
 * 4.9. Monte Carlo Control
 * 4.10. On-Policy Monte Carlo Control
 * 4.11. Monte Carlo Exploring Starts
 * 4.12. Monte Carlo with Epsilon-Greedy Policy
-* 4.13. Implementing On-Policy MC Control
+* [4.13. Implementing On-Policy MC Control](04.%20Monte%20Carlo%20Methods/4.13.%20Implementing%20On-Policy%20MC%20Control.ipynb)
 * 4.14. Off-Policy Monte Carlo Control
 * 4.15. Is MC Method Applicable to all Tasks?
 
 
 ### 5. Understanding Temporal Difference Learning
-* 5.1. TD Learning
+* [5.1. TD Learning](05.%20Understanding%20Temporal%20Difference%20Learning/5.01.%20TD%20Learning.ipynb)
 * 5.2. TD Prediction
-* 5.3. Predicting the Value of States in a Frozen Lake Environment
+* [5.3. Predicting the Value of States in a Frozen Lake Environment](05.%20Understanding%20Temporal%20Difference%20Learning/5.03.%20Predicting%20the%20Value%20of%20States%20in%20a%20Frozen%20Lake%20Environment.ipynb)
 * 5.4. TD Control
 * 5.5. On-Policy TD Control - SARSA
-* 5.6. Computing Optimal Policy using SARSA
+* [5.6. Computing Optimal Policy using SARSA](05.%20Understanding%20Temporal%20Difference%20Learning/5.06.%20Computing%20Optimal%20Policy%20using%20SARSA.ipynb]
 * 5.7. Off-Policy TD Control - Q Learning
-* 5.8. Computing the Optimal Policy using Q Learning
+* [5.8. Computing the Optimal Policy using Q Learning](05.%20Understanding%20Temporal%20Difference%20Learning/5.08.%20Computing%20the%20Optimal%20Policy%20using%20Q%20Learning.ipynb)
 * 5.9. The Difference Between Q Learning and SARSA
 * 5.10. Comparing DP, MC, and TD Methods
 
 
-### 6. Case Study: The MAB Problem
+### [6. Case Study: The MAB Problem](06.%20Case%20Study:%20The%20MAB%20Problem)
 * 6.1. The MAB Problem
 * 6.2. Creating Bandit in the Gym
-* 6.3. Epsilon-Greedy
-* 6.4. Implementing Epsilon-Greedy
+* [6.3. Epsilon-Greedy](06.%20Case%20Study:%20The%20MAB%20Problem/6.03.%20Epsilon-Greedy.ipynb)
+* [6.4. Implementing Epsilon-Greedy](06.%20Case%20Study:%20The%20MAB%20Problem/6.04.%20Implementing%20epsilon-greedy%20.ipynb)
 * 6.5. Softmax Exploration
-* 6.6. Implementing Softmax Exploration
+* [6.6. Implementing Softmax Exploration](06.%20Case%20Study:%20The%20MAB%20Problem/6.06.%20Implementing%20Softmax%20Exploration.ipynb)
 * 6.7. Upper Confidence Bound
-* 6.8. Implementing UCB
+* [6.8. Implementing UCB](06.%20Case%20Study:%20The%20MAB%20Problem/6.08.%20Implementing%20UCB.ipynb)
 * 6.9. Thompson Sampling
-* 6.10. Implementing Thompson Sampling
+* [6.10. Implementing Thompson Sampling](6.%20Case%20Study:%20The%20MAB%20Problem/6.10.%20Implementing%20Thompson%20Sampling.ipynb)
 * 6.11. Applications of MAB
-* 6.12. Finding the Best Advertisement Banner using Bandits
+* [6.12. Finding the Best Advertisement Banner using Bandits](06.%20Case%20Study:%20The%20MAB%20Problem/6.12.%20Finding%20the%20Best%20Advertisement%20Banner%20using%20Bandits.ipynb)
 * 6.13. Contextual Bandits
 
-
-
-### Chapter 7. Deep Learning Foundations
+### [Chapter 7. Deep Learning Foundations](07.%20Deep%20learning%20foundations)
 
 * 7.1. Biological and artifical neurons
 * 7.2. ANN and its layers 
 * 7.3. Exploring activation functions 
 * 7.4. Forward and backward propgation in ANN
-* 7.5. Building neural network from scratch 
+* [7.5. Building neural network from scratch](07.%20Deep%20learning%20foundations/7.05%20Building%20Neural%20Network%20from%20scratch.ipynb)
 * 7.6. Recurrent neural networks 
 * 7.7. LSTM-RNN
 * 7.8. Convolutional neural networks
 * 7.9. Generative adversarial networks 
 
-
-
-### Chapter 8. Getting to Know TensorFlow
+### [Chapter 8. Getting to Know TensorFlow](08.%20A%20primer%20on%20TensorFlow)
 
 * 8.1. What is TensorFlow?
 * 8.2. Understanding Computational Graphs and Sessions
 * 8.3. Variables, Constants, and Placeholders
 * 8.4. Introducing TensorBoard
-* 8.5. Handwritten digits classification using Tensorflow 
+* [8.5. Handwritten digits classification using Tensorflow](08.%20A%20primer%20on%20TensorFlow/8.05%20Handwritten%20digits%20classification%20using%20TensorFlow.ipynb)
 * 8.6. Visualizing Computational graph in TensorBord
 * 8.7. Introducing Eager execution
-* 8.8. Math operations in TensorFlow
+* [8.8. Math operations in TensorFlow](08.%20A%20primer%20on%20TensorFlow/8.08%20Math%20operations%20in%20TensorFlow.ipynb)
 * 8.9. Tensorflow 2.0 and Keras
-* 8.10. MNIST digits classification in Tensorflow 2.0
+* [8.10. MNIST digits classification in Tensorflow 2.0](08.%20A%20primer%20on%20TensorFlow/8.10%20MNIST%20digits%20classification%20in%20TensorFlow%202.0.ipynb)
 
 
 ### 9. Deep Q Network and its Variants

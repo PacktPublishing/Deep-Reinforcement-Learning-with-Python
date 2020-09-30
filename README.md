@@ -1,5 +1,5 @@
 
-### 1. Fundamentals of Reinforcement Learning
+## 1. Fundamentals of Reinforcement Learning
 
 * 1.1. Basic Idea of Reinforcement Learning
 * 1.2. Key Elements of Reinforcement Learning

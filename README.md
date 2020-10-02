@@ -34,7 +34,7 @@ Download the detailed and complete table of contents from [here. ](table%20of%20
 * [3. Bellman Equation and Dynamic Programming](03.%20Bellman%20Equation%20and%20Dynamic%20Programming)
 * [4. Monte Carlo Methods](04.%20Monte%20Carlo%20Methods)
 * [5. Understanding Temporal Difference Learning](05.%20Understanding%20Temporal%20Difference%20Learning)
-* [6. Case Study: The MAB Problem](06.%20Case%20Study:%20The%20MAB%20Problem)
+* [6. Case Study: The MAB Problem](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-with-Python/tree/master/06.%20Case%20Study:%20The%20MAB%20Problem)
 * [7. Deep Learning Foundations](07.%20Deep%20learning%20foundations)
 * [8. Getting to Know TensorFlow](08.%20A%20primer%20on%20TensorFlow)
 * [9. Deep Q Network and its Variants](09.%20%20Deep%20Q%20Network%20and%20its%20Variants)

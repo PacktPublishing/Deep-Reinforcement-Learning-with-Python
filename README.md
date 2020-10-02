@@ -29,7 +29,7 @@ in research.
 # Table of Contents
 Download the detailed and complete table of contents from [here. ](table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf)
 
-* [Chapter 1  Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
+* [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 * [2. A Guide to the Gym Toolkit](02.%20A%20Guide%20to%20the%20Gym%20Toolkit)
 * [3. Bellman Equation and Dynamic Programming](03.%20Bellman%20Equation%20and%20Dynamic%20Programming)
 * [4. Monte Carlo Methods](04.%20Monte%20Carlo%20Methods)

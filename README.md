@@ -57,3 +57,7 @@ Download the detailed and complete table of contents from [here. ](table%20of%20
 6. Explore new avenues such as the distributional RL, meta RL, and inverse RL
 7. Use Stable Baselines to train an agent to walk and play Atari games
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839210686">https://packt.link/free-ebook/9781839210686 </a> </p>

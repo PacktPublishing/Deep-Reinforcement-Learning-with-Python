@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781839210686)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # [Deep Reinforcement Learning With Python](https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i4)
 
 ###  Master classic RL, deep RL, distributional RL, inverse RL, and more using OpenAI Gym and TensorFlow with extensive Math 
